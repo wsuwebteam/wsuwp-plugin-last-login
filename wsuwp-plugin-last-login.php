@@ -3,7 +3,7 @@
  * Plugin Name: WSUWP Last Login
  * Plugin URI: https://github.com/wsuwebteam/wsuwp-plugin-last-login
  * Description: Records and display the last login for users
- * Version: 0.0.5
+ * Version: 0.0.1
  * Requires PHP: 7.0
  * Author: Washington State University, Dan White
  * Author URI: https://web.wsu.edu/
